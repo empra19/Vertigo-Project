@@ -17,7 +17,7 @@ Scripts were written using MATLAB.
 
 **Young Scientist's Journal Competition:**
 - Presentation: `YSJ_Presentation.pptx`
-- [Video presentation](https://youtu.be/cqKaqDrfPi4?si=seLovmZ3B5O_gyvj&t=4917)
+- [Video of Presentation](https://youtu.be/cqKaqDrfPi4?si=seLovmZ3B5O_gyvj&t=4917)
 
 **Big Bang Science Fair:**
 - Poster: `vertigoposter.pdf`
